@@ -1,96 +1,73 @@
-Planejamento PBE ICurti 
+# Planejamento PBE ICurti 
 
 
-Sprint - 25/02 - 04/04 
+## Sprint - 25/02 - 04/04 
 
-Planejamento - Negócio 
+- Planejamento - Negócio 
 
-5w2h 
+-- 5w2h 
 
-3 Pesquisas de Avaliações do Icurti 
+-- 3 Pesquisas de Avaliações do Icurti 
 
-Planejamento Sistema 
+- Planejamento Sistema 
 
-Documento de Visão 
+-- Documento de Visão 
 
-Cenário - definição do negócio 
+-- Cenário - definição do negócio 
 
-Quais são as principais Funcionalidades? 
+-- Quais são as principais Funcionalidades? 
 
-Backlog - User Stories 
+-- Backlog - User Stories 
 
-Tarefas 
+-- Tarefas 
 
-Funcionalidade - User Story: Criação da Lista 
+-- Funcionalidade - User Story: Criação da Lista 
 
-Análise de Tarefa decomposição em Ações 
+-- Análise de Tarefa decomposição em Ações 
 
-Análise iCasei 
+-- Análise iCasei 
 
-Principais funcionalidades contidas e não contidas no contexto do iCurti 
+-- Principais funcionalidades contidas e não contidas no contexto do iCurti 
 
-Avaliação - https://www.survio.com/survey/d/T1P3K9K5J3K7A3R8L 
+-- Avaliação - https://www.survio.com/survey/d/T1P3K9K5J3K7A3R8L 
 
-Feedback de Website - https://www.survio.com/survey/d/L9W7M1Q2C1A3Y9M3A 
+-- Feedback de Website - https://www.survio.com/survey/d/L9W7M1Q2C1A3Y9M3A 
 
-                   
+## Incremento II - 04/04 - 18/04 
 
-Incremento II - 04/04 - 18/04 
+- Planejamento  
+- Avaliação 
+- Implementação 
+- Teste 
 
-Planejamento  
+## Incremento III - 18/04 - 02/05 
 
-Avaliação 
+- Planejamento  
+- Avaliação 
+- Implementação 
+- Projeto Físico 
+- Projeto Django 
+- Teste 
 
-Implementação 
+## Incremento IV - 02/05 - 16/05 
 
-Teste 
+- Planejamento  
+- Modelagem 
+- Implementação 
+- Teste 
 
-Incremento III - 18/04 - 02/05 
+## Incremento V - 16/05 - 30/05 
 
-Planejamento  
+- Planejamento  
+- Modelagem 
+- Implementação 
+- Teste 
 
-Avaliação 
+## Incremento VI - 30/05 - 13/06 
 
-Implementação 
-
-Projeto Físico 
-
-Projeto Django 
-
-Teste 
-
-Incremento IV - 02/05 - 16/05 
-
-Planejamento  
-
-Modelagem 
-
-Implementação 
-
-Teste 
-
-Incremento V - 16/05 - 30/05 
-
-Planejamento  
-
-Modelagem 
-
-Implementação 
-
-Teste 
-
- 
-
-Incremento VI - 30/05 - 13/06 
-
-Planejamento  
-
-Modelagem 
-
-Design 
-
-Implementação 
-
-Teste 
-
+- Planejamento  
+- Modelagem 
+- Design 
+- Implementação 
+- Teste 
  
