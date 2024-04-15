@@ -1,73 +1,39 @@
-# Planejamento PBE ICurti 
+# RepositorioTemplate
+Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
+**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto). !!** 
 
-
-## Sprint - 25/02 - 04/04 
-
-- Planejamento - Negócio 
-
--- 5w2h 
-
--- 3 Pesquisas de Avaliações do Icurti 
-
-- Planejamento Sistema 
-
--- Documento de Visão 
-
--- Cenário - definição do negócio 
-
--- Quais são as principais Funcionalidades? 
-
--- Backlog - User Stories 
-
--- Tarefas 
-
--- Funcionalidade - User Story: Criação da Lista 
-
--- Análise de Tarefa decomposição em Ações 
-
--- Análise iCasei 
-
--- Principais funcionalidades contidas e não contidas no contexto do iCurti 
-
--- Avaliação - https://www.survio.com/survey/d/T1P3K9K5J3K7A3R8L 
-
--- Feedback de Website - https://www.survio.com/survey/d/L9W7M1Q2C1A3Y9M3A 
-
-## Incremento II - 04/04 - 18/04 
-
-- Planejamento  
-- Avaliação 
-- Implementação 
-- Teste 
-
-## Incremento III - 18/04 - 02/05 
-
-- Planejamento  
-- Avaliação 
-- Implementação 
-- Projeto Físico 
-- Projeto Django 
-- Teste 
-
-## Incremento IV - 02/05 - 16/05 
-
-- Planejamento  
-- Modelagem 
-- Implementação 
-- Teste 
-
-## Incremento V - 16/05 - 30/05 
-
-- Planejamento  
-- Modelagem 
-- Implementação 
-- Teste 
-
-## Incremento VI - 30/05 - 13/06 
-
-- Planejamento  
-- Modelagem 
-- Design 
-- Implementação 
-- Teste 
+**!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: 2024.1_PFE1_ProjetoPandora!!**
  
+ (Apague essa seção)
+
+# NomedoProjeto
+
+**Número do Grupo**: XX<br>
+**Código da Disciplina**: FGA0208-T01<br>
+
+## Alunos
+|Matrícula | Aluno |
+| -- | -- |
+| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| xx/xxxxxx  |  xxxx xxxx xxxxx |
+
+## Sobre 
+Descreva o seu projeto em linhas gerais. 
+
+## Screenshots
+Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
+
+## Instalação 
+**Linguagens**: xxxxxx<br>
+**Tecnologias**: xxxxxx<br>
+Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+Insira um manual ou um script para auxiliar ainda mais.
+
+## Uso 
+Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+
+## Vídeo
+Adicione 1 ou mais vídeos com a execução do projeto final.
+
+## Outros 
+Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
