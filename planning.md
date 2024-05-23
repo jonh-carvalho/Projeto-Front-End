@@ -45,23 +45,19 @@
 - Planejamento  
 - Avaliação 
 - Implementação 
-- Projeto Físico 
-- Projeto Django 
-- Teste 
 
 ## Incremento IV - 02/05 - 16/05 
 
 - Planejamento  
 - Modelagem 
 - Implementação 
-- Teste 
 
 ## Incremento V - 16/05 - 30/05 
 
 - Planejamento  
 - Modelagem 
 - Implementação 
-- Teste 
+- Avaliação 
 
 ## Incremento VI - 30/05 - 13/06 
 
@@ -69,5 +65,5 @@
 - Modelagem 
 - Design 
 - Implementação 
-- Teste 
+- Avaliação
  

@@ -3,7 +3,7 @@ id: prototipo
 title: Protótipo
 ---
 
-# Não precisa entregar para a AP1
+
 ## Introdução
  
 <p align = "justify">
@@ -14,8 +14,9 @@ A construção do protótipo de alta fidelidade auxilia a equipe de desenvolvime
  
 <p align = "justify">
 Iniciamos o projeto através dos levantamentos iniciais da equipe, após discussões a ferramenta Figma foi selecionada para produzir o protótipo de alta fidelidade com auxílio do Material Design Color Tool.
+
 </p>
- 
+<p>Observar a estrutura do AHT para a proposição das ações no protótipo.</p> 
 ## Protótipo de alta fidelidade
  
 ### Versão 1.0
@@ -45,23 +46,9 @@ Iniciamos o projeto através dos levantamentos iniciais da equipe, após discuss
 [![Prototipo 7](../assets/prototipo/prototipo_7.png)](../assets/prototipo/prototipo_7.png)
  
 ### Tela Cadastrar torneio 1
-[![Prototipo 8](../assets/prototipo/prototipo_8.png)](../assets/prototipo/prototipo_8.png)
+
  
-### Tela Cadastrar torneio 2
- 
-[![Prototipo 9](../assets/prototipo/prototipo_9.png)](../assets/prototipo/prototipo_9.png)
- 
-### Tela Cadastrar torneio 3
-[![Prototipo 10](../assets/prototipo/prototipo_10.png)](../assets/prototipo/prototipo_10.png)
- 
-### Tela Cadastrar torneio 4
-[![Prototipo 11](../assets/prototipo/prototipo_11.png)](../assets/prototipo/prototipo_11.png)
- 
-### Tela com meus torneios
-[![Prototipo 12](../assets/prototipo/prototipo_12.png)](../assets/prototipo/prototipo_12.png)
- 
-### Tela de inscrição em torneio
-[![Prototipo 13](../assets/prototipo/prototipo_13.png)](../assets/prototipo/prototipo_13.png)
+
 
 <p align = "justify">
 Na primeira versão do protótipo utilizamos a ferramenta <a href="https://material.io/resources/color/#!/?view.left=0&view.right=0">Material Design Color Tool</a>  para auxiliar na criação da paleta de cores do aplicativo, definimos as cores base do aplicativo mas as cores definidas para as telas 12 e 13 ainda não foram decididas.
