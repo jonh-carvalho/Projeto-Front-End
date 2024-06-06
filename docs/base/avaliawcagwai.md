@@ -32,5 +32,5 @@ O Wcag é um....
 ## Autor(es)
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
-| 24/08/20 | 1.0 | Criação do documento | xxx xxxx | 
+| 06/06/24 | 1.0 | Criação do documento | xxx xxxx | 
 | 09/09/20 | 2.0 | Adicionada visão produto | xxxx xxxx | 
