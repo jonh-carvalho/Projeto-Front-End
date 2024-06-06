@@ -1,5 +1,9 @@
 # MkDocs
 
+## Install no Terminal VSCode
+
+*`pip install mkdocs` 
+
 ## Commands 
 
 *`mkdocs new .` - Create a new project.
