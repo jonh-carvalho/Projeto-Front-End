@@ -12,7 +12,7 @@
 
 *`mkdocs build` - Build the documentation site.
 
-*`mkdocs gh-deploy` - Print help message and exit.
+*`mkdocs gh-deploy` - Implanta o site da documentação no github pages.
 
 ##Project layout
 
