@@ -1,14 +1,18 @@
 # MkDocs
 
-## Commands
+## Install no Terminal VSCode
 
-*`mkdocs new [dir-name]` - Create a new project.
+*`pip install mkdocs` 
+
+## Commands 
+
+*`mkdocs new .` - Create a new project.
 
 *`mkdocs serve` - Start the live-reloading docs server.
 
 *`mkdocs build` - Build the documentation site.
 
-*`mkdocs -h` - Print help message and exit.
+*`mkdocs gh-deploy` - Print help message and exit.
 
 ##Project layout
 
